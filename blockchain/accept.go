@@ -10,7 +10,7 @@ import (
 	"github.com/zeusyf/btcd/blockchain/chainutil"
 	"github.com/zeusyf/btcd/database"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 	"time"
 )
 

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/omegasuite/btclog"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btclog"
+	"github.com/zeusyf/btcutil"
 )
 
 // blockProgressLogger provides periodic logging for other services in order

@@ -11,7 +11,7 @@ import (
 
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btclog"
+	"github.com/zeusyf/btclog"
 	"github.com/zeusyf/btcd/wire/common"
 	"github.com/zeusyf/btcd/blockchain"
 )

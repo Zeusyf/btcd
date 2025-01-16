@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/zeusyf/btcd/database"
-	"github.com/omegasuite/btclog"
+	"github.com/zeusyf/btclog"
 	"github.com/zeusyf/btcd/wire/common"
 )
 

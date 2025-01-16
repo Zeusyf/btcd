@@ -19,7 +19,7 @@ import (
 	"github.com/zeusyf/btcd/database"
 	_ "github.com/zeusyf/btcd/database/ffldb"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 const (

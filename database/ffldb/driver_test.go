@@ -15,7 +15,7 @@ import (
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/database"
 	"github.com/zeusyf/btcd/database/ffldb"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // dbType is the database type name for this driver.

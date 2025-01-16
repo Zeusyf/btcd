@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/zeusyf/btcd/btcjson"
-	"github.com/omegasuite/go-socks/socks"
-	"github.com/omegasuite/websocket"
+	"github.com/zeusyf/go-socks/socks"
+	"github.com/zeusyf/websocket"
 )
 
 var (

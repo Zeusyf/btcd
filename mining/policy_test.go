@@ -11,7 +11,7 @@ import (
 	"github.com/zeusyf/btcd/blockchain"
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // newHashFromStr converts the passed big-endian hex string into a

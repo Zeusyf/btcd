@@ -11,9 +11,9 @@ import (
 	"time"
 
 	"github.com/zeusyf/btcd/database/internal/treap"
-	"github.com/omegasuite/goleveldb/leveldb"
-	"github.com/omegasuite/goleveldb/leveldb/iterator"
-	"github.com/omegasuite/goleveldb/leveldb/util"
+	"github.com/zeusyf/goleveldb/leveldb"
+	"github.com/zeusyf/goleveldb/leveldb/iterator"
+	"github.com/zeusyf/goleveldb/leveldb/util"
 )
 
 const (

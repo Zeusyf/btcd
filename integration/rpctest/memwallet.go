@@ -17,8 +17,8 @@ import (
 	"github.com/zeusyf/btcd/rpcclient"
 //	"github.com/zeusyf/btcd/txscript"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/btcutil/hdkeychain"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/btcutil/hdkeychain"
 )
 
 var (

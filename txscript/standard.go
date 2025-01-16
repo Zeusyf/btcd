@@ -11,8 +11,8 @@ import (
 
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/txscript/txsparser"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/ovm"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/ovm"
 )
 
 const (

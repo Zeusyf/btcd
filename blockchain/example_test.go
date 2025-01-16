@@ -14,7 +14,7 @@ import (
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/database"
 	_ "github.com/zeusyf/btcd/database/ffldb"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

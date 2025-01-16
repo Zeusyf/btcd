@@ -12,10 +12,10 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/database"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/btcutil/gcs"
-	"github.com/omegasuite/btcutil/gcs/builder"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/btcutil/gcs"
+	"github.com/zeusyf/btcutil/gcs/builder"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 const (

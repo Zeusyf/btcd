@@ -16,7 +16,7 @@ import (
 
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/database"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

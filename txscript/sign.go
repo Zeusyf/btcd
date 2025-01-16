@@ -14,8 +14,8 @@ import (
 	"github.com/zeusyf/btcd/txscript/txsparser"
 	"github.com/zeusyf/btcd/wire"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/ovm"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/ovm"
 )
 
 // RawTxInWitnessSignature returns the serialized ECDA signature for the input

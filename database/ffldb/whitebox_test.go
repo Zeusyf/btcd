@@ -20,9 +20,9 @@ import (
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/database"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/goleveldb/leveldb"
-	ldberrors "github.com/omegasuite/goleveldb/leveldb/errors"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/goleveldb/leveldb"
+	ldberrors "github.com/zeusyf/goleveldb/leveldb/errors"
 )
 
 var (

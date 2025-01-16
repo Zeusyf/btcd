@@ -11,7 +11,7 @@ import (
 
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/database"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

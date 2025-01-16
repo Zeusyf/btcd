@@ -10,7 +10,7 @@ package database
 import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

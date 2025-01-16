@@ -20,7 +20,7 @@ import (
 
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/mining"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // TODO incorporate Alex Morcos' modifications to Gavin's initial model

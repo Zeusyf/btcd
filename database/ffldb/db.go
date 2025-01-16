@@ -19,14 +19,14 @@ import (
 	"github.com/zeusyf/btcd/database/internal/treap"
 	"github.com/zeusyf/btcd/wire"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/goleveldb/leveldb"
-	"github.com/omegasuite/goleveldb/leveldb/comparer"
-	ldberrors "github.com/omegasuite/goleveldb/leveldb/errors"
-	"github.com/omegasuite/goleveldb/leveldb/filter"
-	"github.com/omegasuite/goleveldb/leveldb/iterator"
-	"github.com/omegasuite/goleveldb/leveldb/opt"
-	"github.com/omegasuite/goleveldb/leveldb/util"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/goleveldb/leveldb"
+	"github.com/zeusyf/goleveldb/leveldb/comparer"
+	ldberrors "github.com/zeusyf/goleveldb/leveldb/errors"
+	"github.com/zeusyf/goleveldb/leveldb/filter"
+	"github.com/zeusyf/goleveldb/leveldb/iterator"
+	"github.com/zeusyf/goleveldb/leveldb/opt"
+	"github.com/zeusyf/goleveldb/leveldb/util"
 )
 
 const (

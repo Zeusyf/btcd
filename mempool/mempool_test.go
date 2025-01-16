@@ -18,7 +18,7 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 //	"github.com/zeusyf/btcd/txscript"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // fakeChain is used by the pool harness to provide generated test utxos and

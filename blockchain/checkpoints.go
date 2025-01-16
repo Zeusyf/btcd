@@ -11,7 +11,7 @@ import (
 
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

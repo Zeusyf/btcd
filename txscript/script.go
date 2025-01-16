@@ -7,13 +7,13 @@ package txscript
 import (
 	"bytes"
 	"encoding/binary"
-	//	"github.com/omegasuite/omega/token"
+	//	"github.com/zeusyf/omega/token"
 	"time"
 
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/txscript/txsparser"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/omega/ovm"
+	"github.com/zeusyf/omega/ovm"
 )
 
 // Bip16Activation is the timestamp where BIP0016 is valid to use in the

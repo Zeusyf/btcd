@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"container/list"
 	"fmt"
-	"github.com/omegasuite/omega/minerchain"
+	"github.com/zeusyf/omega/minerchain"
 	"math/rand"
 	"net"
 	"reflect"
@@ -25,8 +25,8 @@ import (
 	peerpkg "github.com/zeusyf/btcd/peer"
 	"github.com/zeusyf/btcd/wire"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/consensus"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/consensus"
 )
 
 const (

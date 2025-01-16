@@ -25,7 +25,7 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/omegasuite/btcutil"
+//          "github.com/zeusyf/btcutil"
 //          "github.com/zeusyf/btcd/chaincfg"
 //  )
 //

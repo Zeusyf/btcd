@@ -14,7 +14,7 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 //	"github.com/zeusyf/btcd/txscript"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // TestCalcMinRequiredTxRelayFee tests the calcMinRequiredTxRelayFee API.

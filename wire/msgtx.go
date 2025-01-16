@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/omega/token"
 	"io"
 	"strconv"
 )

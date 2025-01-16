@@ -10,8 +10,8 @@ import (
 	"container/heap"
 	"fmt"
 	"github.com/zeusyf/btcd/blockchain/chainutil"
-	//	"github.com/omegasuite/omega"
-	"github.com/omegasuite/omega/ovm"
+	//	"github.com/zeusyf/omega"
+	"github.com/zeusyf/omega/ovm"
 	"math/rand"
 	"time"
 	//	"encoding/hex"
@@ -22,9 +22,9 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/token"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/token"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 const (

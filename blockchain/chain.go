@@ -14,7 +14,7 @@ import (
 	"github.com/zeusyf/btcd/blockchain/chainutil"
 	"github.com/zeusyf/btcd/btcec"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/omega/token"
 	"os"
 	"sync"
 	"time"
@@ -24,9 +24,9 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/database"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/ovm"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/ovm"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 const (

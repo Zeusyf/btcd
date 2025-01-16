@@ -3,13 +3,13 @@ package txscript
 import (
 	"errors"
 	"fmt"
-	"github.com/omegasuite/omega/ovm"
+	"github.com/zeusyf/omega/ovm"
 
 	"github.com/zeusyf/btcd/blockchain/indexers"
 	"github.com/zeusyf/btcd/btcec"
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/txscript/txsparser"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"container/list"
 	"errors"
 	"fmt"
-	"github.com/omegasuite/omega/consensus"
+	"github.com/zeusyf/omega/consensus"
 	"io"
 	"math/rand"
 	"net"
@@ -23,7 +23,7 @@ import (
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/go-socks/socks"
+	"github.com/zeusyf/go-socks/socks"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/zeusyf/btcd/wire/common"
 )

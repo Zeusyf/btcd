@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"github.com/zeusyf/btcd/btcec"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/omega/consensus"
+	"github.com/zeusyf/omega/consensus"
 	"math/big"
 
 	//	"math/big"
@@ -26,8 +26,8 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/mining"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/token"
 )
 
 const (

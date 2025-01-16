@@ -15,8 +15,8 @@ import (
 	"github.com/zeusyf/btcd/chaincfg"
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/token"
 )
 
 // *****************************

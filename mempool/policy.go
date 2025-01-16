@@ -12,8 +12,8 @@ import (
 
 	"github.com/zeusyf/btcd/blockchain"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 const (

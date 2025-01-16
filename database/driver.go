@@ -7,7 +7,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/omegasuite/btclog"
+	"github.com/zeusyf/btclog"
 )
 
 // Driver defines a structure for backend drivers to use when they registered

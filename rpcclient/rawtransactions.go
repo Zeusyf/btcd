@@ -12,7 +12,7 @@ import (
 	"github.com/zeusyf/btcd/btcjson"
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // SigHashType enumerates the available signature hashing types that the

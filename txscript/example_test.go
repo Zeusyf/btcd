@@ -13,7 +13,7 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 //	"github.com/zeusyf/btcd/txscript"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 )
 
 // This example demonstrates creating a script which pays to a bitcoin address.

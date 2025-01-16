@@ -12,8 +12,8 @@ import (
 	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"github.com/zeusyf/btcd/database"
 	"github.com/zeusyf/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 var (

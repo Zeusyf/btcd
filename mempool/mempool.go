@@ -9,9 +9,9 @@ import (
 	"container/list"
 	"fmt"
 	"github.com/zeusyf/btcd/btcec"
-	"github.com/omegasuite/omega/ovm"
+	"github.com/zeusyf/omega/ovm"
 
-	//	"github.com/omegasuite/omega/token"
+	//	"github.com/zeusyf/omega/token"
 	"math"
 	"sync"
 	"sync/atomic"
@@ -25,8 +25,8 @@ import (
 	"github.com/zeusyf/btcd/mining"
 	"github.com/zeusyf/btcd/wire"
 	"github.com/zeusyf/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 const (
